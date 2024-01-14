@@ -10,7 +10,7 @@ I`m Artem Nahornyi a Python Junior Developer.
 
 <a href="" target="_blank">[![Static Badge](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white&labelColor=blue)](https://t.me/artem_nahornyi)</a>
 
-<a href="https://t.me/artem_nahornyi" terget="_blank"> erere</a>
+<a href="https://t.me/artem_nahornyi" target="_blank"> erere</a>
 
 <img align="left" width="47%" alt="Artem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ntwn&show_icons=true&theme=transparent"/>
 <img align="right" width="47%" alt="Top Langs GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntwn&layout=compact&theme=transparent"/>
