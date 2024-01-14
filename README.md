@@ -6,7 +6,7 @@ I`m Artem Nahornyi a Python Junior Developer.
 
 [![Static Badge](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/@artem-nahornyi-ua)
 [![Mail Badge](https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:artemna@gmail.com)
-[![Static Badge](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white&labelColor=blue)](https://t.me/artem_nahornyi)
+[![Static Badge](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white&labelColor=blue&target=_blank)](https://t.me/artem_nahornyi)
 
 
 <img align="left" width="4%" alt="Artem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ntwn&show_icons=true&theme=transparent"/>
