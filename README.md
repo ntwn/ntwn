@@ -8,7 +8,7 @@ I`m Artem Nahornyi a Python Junior Developer.
 [![Mail Badge](https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:artemna@gmail.com)
 [![Static Badge](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white&labelColor=blue)](https://t.me/artem_nahornyi)
 
-<a href="https://t.me/artem_nahornyi" target="_blank">[![Static Badge](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white&labelColor=blue)](https://t.me/artem_nahornyi)</a>
+<a href="" target="_blank">[![Static Badge](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white&labelColor=blue)](https://t.me/artem_nahornyi)</a>
 
 
 <img align="left" width="47%" alt="Artem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ntwn&show_icons=true&theme=transparent"/>
