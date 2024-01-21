@@ -15,4 +15,4 @@ I love pet-projects. They help me grow professionally all my life.<br/>
 
 <img align="left" width="47%" height="200px" alt="Artem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ntwn&show_icons=true&theme=transparent"/>
 <img align="right" width="47%" height="200px" alt="Top Langs GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntwn&layout=compact&theme=transparent"/>
-<img align="right" width="47%" height="200px" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/ntwn?ext=contest"/>
+<img align="left" width="47%" height="200px" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/ntwn?ext=contest"/>
