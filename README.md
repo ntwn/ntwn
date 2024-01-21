@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I`m Artem Nahornyi and I study Python.
+I`m Artem Nahornyi.
 
 I live in Ukraine.<br/>
 Most of the time I'm writing on Python.<br/>
