@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I`m Artem Nahornyi a Python Junior Developer.
+I`m Artem Nahornyi and I study Python.
+
+I live in Ukraine.<br/>
+Most of the time I'm writing on Python.<br/>
+I love pet-projects. They help me grow professionally all my life.<br/>
 
 ## 📫: Reach me!
 
