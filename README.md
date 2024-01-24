@@ -12,7 +12,13 @@ I love pet-projects. They help me grow professionally all my life.<br/>
 [![Mail Badge](https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:artemna@gmail.com)
 [![Static Badge](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white&labelColor=blue)](https://t.me/artem_nahornyi)
 
-
-<img align="left" width="47%" height="200px" alt="Artem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ntwn&show_icons=true&theme=transparent"/>
-<img align="right" width="47%" height="200px" alt="Top Langs GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntwn&layout=compact&theme=transparent"/>
-<img align="left" width="47%" height="200px" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/ntwn?ext=contest"/>
+ <table id="tablett">
+  <tr>
+    <td><img align="right" width="100%" height="200px" alt="Artem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ntwn&show_icons=true&theme=transparent"/></td>
+    <td><img align="center" width="100%" height="200px" alt="Top Langs GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntwn&layout=compact&theme=transparent"/></td>
+  </tr>
+  <tr>
+    <td><img align="right" width="100%" height="200px" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/ntwn?ext=contest"/></td>
+    <td></td>
+  </tr>
+</table> 
